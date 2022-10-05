@@ -1,6 +1,6 @@
 <h1 align="center">Kmeans - Parallel Programming with OpenMP</h1> 
 
-This repository contains the implementation of two variants of the **kmeans** algorithm (the standard and the k-medians version) using **Open-MP**.
+This repository contains the parallelization of two variants of the **kmeans** algorithm (the standard and the k-medians version) using **Open-MP**.
 
 All the details and design choices are explained in the [final report](https://github.com/ParsaD23/kmeans_OpenMP/blob/master/Kmeans%20-%20Parallel%20Programming%20with%20OpenMP.pdf).
 
